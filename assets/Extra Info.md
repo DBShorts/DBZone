@@ -1,0 +1,4 @@
+# How the hell does this work?
+Really, not 100% sure. All i know is that one of my favourite scratch extensions had the ability to fetch content from a text file, and from there, I just kept building onto that concept. It actually brought some really cool stuff out of it, too. I mean, this thing can play YouTube videos! And recieve other files!  
+The funny part is, this was a complete accidental discovery. I was just fooling around and I was like "Man, custom scratch extensions seem cool, I wonder what kinds of them exist? Oh wow, this can fetch information from a text file! What if I make it say whatever the text file has? oh my god this is so cool!!!" and then from there I made this.
+Hope that everyone enjoys! I also hope that other people might make their own TurboZone pages. It would be pretty epic.
